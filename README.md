@@ -4,4 +4,4 @@ Practiced using arrays and pulling data from a document using Python.
 ## Project 2
 Project 2 used Arduino to read data from a DHT sensor and transfer it over to LabView to organize it.
 ## Project 3
-Edit a string to Morse Code and 
+In a python file converted a string to Morse Code "dots" and "dashes". Read the light with Arduino and transfered it to Labview using the Serial Port and decrypted it.
